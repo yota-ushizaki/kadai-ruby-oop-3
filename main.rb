@@ -1,5 +1,3 @@
-require './animal'
-require './thinkable'
 require './human'
 include Thinkable
 
